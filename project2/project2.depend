@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665243083 source:d:\cits2002\project2\project2\main.c
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+	<getopt.h>
+
